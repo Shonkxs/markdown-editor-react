@@ -1,0 +1,5 @@
+Librarys zusätzlich installiert
+
++ react-markdown
++ react-script
++ styled-components
